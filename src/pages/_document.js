@@ -5,7 +5,7 @@ export default function Document() {
     <Html lang="en">
 
       <Head />
-      <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"></meta>
+      {/* <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"></meta> */}
       <body>
         <Main />
         <NextScript />
