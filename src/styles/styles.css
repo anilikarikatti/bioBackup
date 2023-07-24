@@ -1,0 +1,32 @@
+.background{
+    background-color: rgb(21,24,42);
+}
+
+.orange{
+    background-color: rgb(237,181,138);
+}
+
+.textColor{
+    color:#bcaaa4
+}
+
+.pageBackground{
+    background-color: rgb(9,12,28);
+}
+
+select#Doctype{
+    border: none;
+    /* border-color: red;
+     */
+     border:"0px";
+     outline: 0px;
+     
+}
+
+.loginBackground{
+    background: url("../../public/images/navy_bg.webp");
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+    
+}
